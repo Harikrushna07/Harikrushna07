@@ -18,5 +18,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harikrushna07&show_icons=true&locale=en&layout=compact" alt="harikrushna07" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harikrushna07&show_icons=true&locale=en" alt="harikrushna07" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harikrushna07&" alt="harikrushna07" /></p>
