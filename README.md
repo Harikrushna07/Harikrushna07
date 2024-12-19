@@ -1,5 +1,3 @@
-![logo](https://media.licdn.com/dms/image/D4D16AQH55G-OVMXVKw/profile-displaybackgroundimage-shrink_350_1400/0/1716460507310?e=1723680000&v=beta&t=ZxFvAuux_sdd8jnGMikvHLR9O0fVXUqM_Xr9H5OvUD4)
-
 <h1 align="center">Hi 👋, I'm Harikrushna Jethawa</h1>
 <h3 align="center">A passionate web developer and an IT Engineer from India</h3>
 
